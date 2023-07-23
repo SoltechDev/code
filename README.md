@@ -1,0 +1,2 @@
+# code
+For soltechdev practicals 
